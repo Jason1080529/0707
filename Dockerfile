@@ -1,8 +1,8 @@
 FROM python:3.6.9
 
 LABEL version="1.0"
-LABEL Copyright="2022"
-LABEL owner="yillkid"
+LABEL Copyright="2023"
+LABEL owner="jason"
 
 WORKDIR /app
 
